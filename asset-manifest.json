@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ArcoDev/prueba-react.git/static/css/main.a3c6d29f.chunk.css",
+    "main.js": "/ArcoDev/prueba-react.git/static/js/main.d1d9be28.chunk.js",
+    "main.js.map": "/ArcoDev/prueba-react.git/static/js/main.d1d9be28.chunk.js.map",
+    "runtime-main.js": "/ArcoDev/prueba-react.git/static/js/runtime-main.dce62d53.js",
+    "runtime-main.js.map": "/ArcoDev/prueba-react.git/static/js/runtime-main.dce62d53.js.map",
+    "static/js/2.2e05db6d.chunk.js": "/ArcoDev/prueba-react.git/static/js/2.2e05db6d.chunk.js",
+    "static/js/2.2e05db6d.chunk.js.map": "/ArcoDev/prueba-react.git/static/js/2.2e05db6d.chunk.js.map",
+    "static/js/3.119333f3.chunk.js": "/ArcoDev/prueba-react.git/static/js/3.119333f3.chunk.js",
+    "static/js/3.119333f3.chunk.js.map": "/ArcoDev/prueba-react.git/static/js/3.119333f3.chunk.js.map",
+    "index.html": "/ArcoDev/prueba-react.git/index.html",
+    "static/css/main.a3c6d29f.chunk.css.map": "/ArcoDev/prueba-react.git/static/css/main.a3c6d29f.chunk.css.map",
+    "static/js/2.2e05db6d.chunk.js.LICENSE.txt": "/ArcoDev/prueba-react.git/static/js/2.2e05db6d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ArcoDev/prueba-react.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dce62d53.js",
+    "static/js/2.2e05db6d.chunk.js",
+    "static/css/main.a3c6d29f.chunk.css",
+    "static/js/main.d1d9be28.chunk.js"
+  ]
+}
