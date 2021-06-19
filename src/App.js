@@ -2,6 +2,11 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const prueba = () => {
+    const a = document.getElementById('prueba')
+    a.classList.toggle('color')
+    console.log('DIste un click sobre un enlace')
+  }
   return (
     <div className="App">
       <header className="App-header">
@@ -10,10 +15,10 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
+          id="prueba"
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
           rel="noopener noreferrer"
+          onClick={prueba}
         >
           Learn React
         </a>
